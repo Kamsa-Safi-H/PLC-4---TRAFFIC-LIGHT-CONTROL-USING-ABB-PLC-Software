@@ -96,7 +96,10 @@ T3 Done → Return to T1
 
 
 ## Output
+<img width="1917" height="952" alt="taf1" src="https://github.com/user-attachments/assets/154d4127-216a-45a2-b210-55ac20cc4211" />
 
+
+<img width="1916" height="991" alt="taf2" src="https://github.com/user-attachments/assets/d8f28227-ae7e-46a1-a143-1a20bf63ad5d" />
 
 
 
